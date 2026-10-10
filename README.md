@@ -1,7 +1,7 @@
 
 # Thomas Floret
 
-**Analyste SOC junior** · Détection, analyse et réponse à incident, avec un socle GRC
+**Analyste SOC junior** · Détection, analyse et réponse à incident, avec un socle GRC<br>
 Basé à Lyon · Je recherche un **premier poste d'analyste SOC (CDI/CDD)**, mobile dans toute la France.
 
 Je veux comprendre une alerte de bout en bout : ce qu'elle signifie, ce qu'elle menace, et comment y répondre selon des procédures claires. Ma formation en gouvernance et gestion des risques (ISO 27001, NIST) m'aide à relier un incident technique à son impact métier.
@@ -38,16 +38,16 @@ Je veux comprendre une alerte de bout en bout : ce qu'elle signifie, ce qu'elle 
 <details>
 <summary><b>English</b></summary>
 
-**Junior SOC Analyst** · Detection, analysis and incident response, with a GRC foundation.
+**Junior SOC Analyst** · Detection, analysis and incident response, with a GRC foundation.<br>
 Lyon, France · Looking for a **first full-time SOC analyst position**, open to roles anywhere in France.
 
 I want to understand an alert end to end: what it means, what it threatens, and how to respond with clear procedures. My background in governance and risk management (ISO 27001, NIST) helps me link a technical incident to its business impact.
 
 **Career changer** with a varied background: Master's in management (IDRAC), co-founding a start-up, then 7 years in organic farming.
 
-**Certifications:** TryHackMe Security Analyst Level 1 (SAL1) · CompTIA Security+ (ce) · PECB ISO/IEC 27001 Provisional Implementer · Google Cybersecurity Professional Certificate
-**Training:** Introduction to the EBIOS Risk Manager method (Club EBIOS MOOC, March 2026, ANSSI risk analysis method)
-**Skills:** alert triage & investigation · detection and incident response · networking · Linux · SQL · Python · risk management (ISO/IEC 27001, NIST CSF 2.0)
+**Certifications:** TryHackMe Security Analyst Level 1 (SAL1) · CompTIA Security+ (ce) · PECB ISO/IEC 27001 Provisional Implementer · Google Cybersecurity Professional Certificate<br>
+**Training:** Introduction to the EBIOS Risk Manager method (Club EBIOS MOOC, March 2026, ANSSI risk analysis method)<br>
+**Skills:** alert triage & investigation · detection and incident response · networking · Linux · SQL · Python · risk management (ISO/IEC 27001, NIST CSF 2.0)<br>
 **Tools:** Splunk · Elastic · Wireshark · tcpdump · NetworkMiner · Snort
 
 **Portfolio:** [cyberportofolio](https://github.com/Ch2ico/cyberportofolio) · **Contact:** [LinkedIn](https://www.linkedin.com/in/tfloret)
