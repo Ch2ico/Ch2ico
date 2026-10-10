@@ -30,10 +30,10 @@ Je veux comprendre une alerte de bout en bout : ce qu'elle signifie, ce qu'elle 
 - **Analyse réseau & IDS** : Wireshark, tcpdump, NetworkMiner, Snort
 
 ### Projets
-- [cyberportofolio](https://github.com/Ch2ico/cyberportofolio) : analyses d'incidents, playbooks, fiches méthodo (en construction)
+- [Cyberportofolio](https://github.com/Ch2ico/cyberportofolio) : analyses d'incidents, playbooks, fiches méthodo (en construction)
 
 ### Contact
-[LinkedIn](https://www.linkedin.com/in/tfloret)
+- [LinkedIn](https://www.linkedin.com/in/tfloret)
 
 <details>
 <summary><b>English</b></summary>
@@ -50,6 +50,6 @@ I want to understand an alert end to end: what it means, what it threatens, and 
 **Skills:** alert triage & investigation · detection and incident response · networking · Linux · SQL · Python · risk management (ISO/IEC 27001, NIST CSF 2.0)<br>
 **Tools:** Splunk · Elastic · Wireshark · tcpdump · NetworkMiner · Snort
 
-**Portfolio:** [cyberportofolio](https://github.com/Ch2ico/cyberportofolio) · **Contact:** [LinkedIn](https://www.linkedin.com/in/tfloret)
+**Portfolio:** [Cyberportofolio](https://github.com/Ch2ico/cyberportofolio) · **Contact:** [LinkedIn](https://www.linkedin.com/in/tfloret)
 </details>
 
