@@ -12,7 +12,7 @@ Je veux comprendre une alerte de bout en bout : ce qu'elle signifie, ce qu'elle 
 | Certification | Organisme | Date |
 | --- | --- | --- |
 | **Security Analyst Level 1 (SAL1)** | TryHackMe | oct. 2026 |
-| **CompTIA Security+ (ce)** | CompTIA | mai 2026 |
+| **CompTIA Security+** | CompTIA | mai 2026 |
 | **ISO/IEC 27001 Provisional Implementer** | PECB | sept. 2026 |
 | Google Cybersecurity Professional Certificate (8 modules) | Google / Coursera | janv.–mars 2026 |
 
@@ -45,7 +45,7 @@ I want to understand an alert end to end: what it means, what it threatens, and 
 
 **Career changer** with a varied background: Master's in management (IDRAC), co-founding a start-up, then 7 years in organic farming.
 
-**Certifications:** TryHackMe Security Analyst Level 1 (SAL1) · CompTIA Security+ (ce) · PECB ISO/IEC 27001 Provisional Implementer · Google Cybersecurity Professional Certificate<br>
+**Certifications:** TryHackMe Security Analyst Level 1 (SAL1) · CompTIA Security+ · PECB ISO/IEC 27001 Provisional Implementer · Google Cybersecurity Professional Certificate<br>
 **Training:** Introduction to the EBIOS Risk Manager method (Club EBIOS MOOC, March 2026, ANSSI risk analysis method)<br>
 **Skills:** alert triage & investigation · detection and incident response · networking · Linux · SQL · Python · risk management (ISO/IEC 27001, NIST CSF 2.0)<br>
 **Tools:** Splunk · Elastic · Wireshark · tcpdump · NetworkMiner · Snort
