@@ -30,7 +30,7 @@ Je veux comprendre une alerte de bout en bout : ce qu'elle signifie, ce qu'elle 
 - **Analyse réseau & IDS** : Wireshark, tcpdump, NetworkMiner, Snort
 
 ### Projets
-- [cyberportofolio](https://github.com/Ch2ico/cyberportofolio) : analyses d'incidents, playbooks, fiches méthodo (en construction)
+- [Cyberportofolio](https://github.com/Ch2ico/cyberportofolio) : analyses d'incidents, playbooks, fiches méthodo (en construction)
 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/tfloret)
