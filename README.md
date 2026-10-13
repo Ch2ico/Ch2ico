@@ -14,9 +14,8 @@ Je veux comprendre une alerte de bout en bout : ce qu'elle signifie, ce qu'elle 
 | **Security Analyst Level 1 (SAL1)** | TryHackMe | oct. 2026 |
 | **CompTIA Security+** | CompTIA | mai 2026 |
 | **ISO/IEC 27001 Provisional Implementer** | PECB | sept. 2026 |
-| Google Cybersecurity Professional Certificate (8 modules) | Google / Coursera | janv.–mars 2026 |
+| Google Cybersecurity Professional Certificate | Google / Coursera | janv.–mars 2026 |
 
-<sub>Modules Google : Foundations of Cybersecurity · Play It Safe: Manage Security Risks · Connect and Protect: Networks and Network Security · Tools of the Trade: Linux and SQL · Assets, Threats, and Vulnerabilities · Sound the Alarm: Detection and Response · Automate Cybersecurity Tasks with Python · Put It to Work: Prepare for Cybersecurity Jobs</sub>
 
 ### Formation
 - **Introduction à la méthode EBIOS Risk Manager** : MOOC du Club EBIOS, mars 2026 (méthode d'analyse de risque de l'ANSSI)
