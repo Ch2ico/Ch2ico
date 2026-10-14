@@ -14,7 +14,7 @@ Je veux comprendre une alerte de bout en bout : ce qu'elle signifie, ce qu'elle 
 | **Security Analyst Level 1 (SAL1)** | TryHackMe | oct. 2026 |
 | **CompTIA Security+** | CompTIA | mai 2026 |
 | **ISO/IEC 27001 Provisional Implementer** | PECB | sept. 2026 |
-| Google Cybersecurity Professional Certificate | Google / Coursera | janv.–mars 2026 |
+| **Google Cybersecurity Professional Certificate** | Google / Coursera | janv.–mars 2026 |
 
 
 ### Formation
